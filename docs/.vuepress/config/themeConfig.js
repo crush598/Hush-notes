@@ -50,17 +50,17 @@ module.exports = {
       {
         iconClass: 'icon-github',
         title: 'GitHub',
-        link: 'https://github.com/eryajf',
+        link: 'https://github.com/crush598',
       },
       {
         iconClass: 'icon-youjian',
         title: '发邮件',
-        link: 'mailto:eryajf@163.com',
+        link: 'crush@tju.edu.cn',
       },
       {
         iconClass: 'icon-gitee',
         title: 'Gitee',
-        link: 'https://gitee.com/eryajf',
+        link: 'https://gitee.com/Crush_han',
       },
     ],
   },
@@ -68,6 +68,6 @@ module.exports = {
     // 页脚信息
     createYear: 2022, // 博客创建年份
     copyrightInfo:
-      'Eryajf | <a href="https://github.com/eryajf/Hush-notes/blob/main/LICENSE" target="_blank">MIT License</a>', // 博客版权信息，支持a标签
+      'Hush | <a href="https://github.com/crush598/Hush-notes/blob/main/LICENSE" target="_blank">MIT License</a>', // 博客版权信息，支持a标签
   }
 }
