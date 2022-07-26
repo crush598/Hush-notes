@@ -1,14 +1,14 @@
-<h1 align="center">vdoing-template</h1>
+<h1 align="center">Hush-notes</h1>
 
 
 <div align="center">
 
 [![Auth](https://img.shields.io/badge/Auth-eryajf-ff69b4)](https://github.com/eryajf)
-[![Status](https://img.shields.io/badge/status-active-success.svg)](https://github.com/eryajf/vdoing-template)
-[![GitHub Issues](https://img.shields.io/github/issues/eryajf/vdoing-template.svg)](https://github.com/eryajf/vdoing-template/issues)
-[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/eryajf/vdoing-template)](https://github.com/eryajf/vdoing-template/pulls)
-[![GitHub Pull Requests](https://img.shields.io/github/stars/eryajf/vdoing-template)](https://github.com/eryajf/vdoing-template/stargazers)
-[![GitHub license](https://img.shields.io/github/license/eryajf/vdoing-template)](https://github.com/eryajf/vdoing-template/blob/main/LICENSE)
+[![Status](https://img.shields.io/badge/status-active-success.svg)](https://github.com/eryajf/Hush-notes)
+[![GitHub Issues](https://img.shields.io/github/issues/eryajf/Hush-notes.svg)](https://github.com/eryajf/Hush-notes/issues)
+[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/eryajf/Hush-notes)](https://github.com/eryajf/Hush-notes/pulls)
+[![GitHub Pull Requests](https://img.shields.io/github/stars/eryajf/Hush-notes)](https://github.com/eryajf/Hush-notes/stargazers)
+[![GitHub license](https://img.shields.io/github/license/eryajf/Hush-notes)](https://github.com/eryajf/Hush-notes/blob/main/LICENSE)
 
 </div>
 
@@ -42,7 +42,7 @@
 
 ## 初始配置
 
-首先访问模板仓库：[vdoing-template](https://github.com/eryajf/vdoing-template)。点击此仓库右侧的 `Use this template`
+首先访问模板仓库：[Hush-notes](https://github.com/eryajf/Hush-notes)。点击此仓库右侧的 `Use this template`
 
 ![image_20220721_153908](https://cdn.staticaly.com/gh/eryajf/tu/main/img/image_20220721_153908.png)
 
