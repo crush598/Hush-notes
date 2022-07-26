@@ -1,8 +1,8 @@
 // nav
 module.exports = [
   { text: '首页', link: '/' },
-  { text: '随笔',link: '/01.随笔/',},
-  { text: 'two',link: '/two/',},
-  { text: 'three', link: '/three/' },
+  { text: '随笔',link: '/one/',},
+  { text: '笔记',link: '/two/',},
+  { text: '摘抄', link: '/three/' },
   { text: '留言板', link: '/message-board/' },
 ]
