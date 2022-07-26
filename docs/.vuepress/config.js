@@ -25,10 +25,10 @@ module.exports = {
         needComments: true,
         // 其他的 Vssue 配置
         autoCreateIssue: true,
-        clientId: "adb9fb0ac1159e00ce7f",
-        clientSecret: "27da8dc85f808c2bd1b6e44da5ae69c4ddf17d8d",
-        owner: "eryajf",
-        repo: "vdoing-template",
+        clientId: "2e20d6a55a6b15f71401",
+        clientSecret: "dd3f5d785178b87e56d913f0f740f45c8f59c8af",
+        owner: "crush598",
+        repo: "Hush-notes",
       },
     ],
     // 增强 markdown
