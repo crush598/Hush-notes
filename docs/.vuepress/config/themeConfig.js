@@ -12,8 +12,8 @@ module.exports = {
   editLinks: true, // 启用编辑链接
   docsDir: 'docs', // 编辑的文件夹
   docsBranch: 'main', // 编辑的分支
-  editLinkText: '帮助我们改善此页面',
-  searchPlaceholder: "按下 𝑺 搜索",  // 可选：搜索栏占位文本，默认："$ grep ..."
+  editLinkText: '编辑',
+  // searchPlaceholder: "按下 𝑺 搜索",  // 可选：搜索栏占位文本，默认："$ grep ..."
 
   //*** 以下配置是Vdoing主题改动和新增的配置 ***//
 
