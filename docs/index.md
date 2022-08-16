@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: https://cdn.staticaly.com/gh/eryajf/tu/main/img/image_20220720_132208.png
+heroImage: https://cdn.jsdelivr.net/gh/crush598/image@main/二分/202208170018230.jpeg
 # tagline: 致敬每个爱学习的你
 heroText: Up & Up
 actionText: 开始浏览 →
