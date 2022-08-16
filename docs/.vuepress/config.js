@@ -4,8 +4,8 @@ const themeConfig = require('./config/themeConfig.js');
 
 module.exports = {
   theme: 'vdoing', // 使用npm包主题
-  title: "Hush-notes",
-  description: '致敬每个爱学习的你',
+  title: "Up & Up",
+  // description: '致敬每个爱学习的你',
   base: '/Hush-notes/', // 格式：'/<仓库名>/'， 默认'/'
   markdown: {
     lineNumbers: true, // 代码行号
