@@ -23,6 +23,7 @@ module.exports = {
   // categoryText: '随笔', // 碎片化文章（_posts文件夹的文章）预设生成的分类值，默认'随笔'
 
   bodyBgImg: "https://cdn.jsdelivr.net/gh/crush598/image@main/二分/202208180926576.jpg",
+  bodyBgImgOpacity: 1,
   // titleBadge: false, // 文章标题前的图标是否显示，默认true
   // titleBadgeIcons: [ // 文章标题前图标的地址，默认主题内置图标
   //   '图标地址1',
