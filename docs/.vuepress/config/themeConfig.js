@@ -22,11 +22,12 @@ module.exports = {
   // archive: false, // 是否打开归档功能，默认true。 如打开，会做的事情有：1.自动生成归档页面（在@pages文件夹）。如关闭，则反之。
   // categoryText: '随笔', // 碎片化文章（_posts文件夹的文章）预设生成的分类值，默认'随笔'
 
+  bodyBgImg: "https://cdn.jsdelivr.net/gh/crush598/image@main/二分/202208180926576.jpg",
   // titleBadge: false, // 文章标题前的图标是否显示，默认true
-  titleBadgeIcons: [ // 文章标题前图标的地址，默认主题内置图标
-     'https://cdn.jsdelivr.net/gh/crush598/image@main/二分/202208180926576.jpg',
-     // '图标地址2'
-   ],
+  // titleBadgeIcons: [ // 文章标题前图标的地址，默认主题内置图标
+  //   '图标地址1',
+  //   '图标地址2'
+  // ],
   // contentBgStyle: 1, // 文章内容块的背景风格，默认无. 1 => 方格 | 2 => 横线 | 3 => 竖线 | 4 => 左斜线 | 5 => 右斜线 | 6 => 点状
 
   // rightMenuBar: false, // 是否显示右侧文章大纲栏，默认true (屏宽小于1300px下无论如何都不显示)
