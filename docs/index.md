@@ -1,7 +1,7 @@
 ---
 home: true
 # heroImage: https://cdn.jsdelivr.net/gh/crush598/image@main/二分/202208170018230.jpeg
-# tagline: 致敬每个爱学习的你
+# tagline: 我生活在窘迫之中，但也生活在某种快乐之中。
 heroText: Up & Up
 actionText: 开始浏览 →
 actionLink: /pages/24768e/
