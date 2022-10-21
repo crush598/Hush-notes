@@ -6,5 +6,4 @@ module.exports = [
   { text: '摘抄', link: '/three/' },
   { text: '归档', link: '/archives/' },
   { text: '关于', link: '/about/' },
-  { text: '留言板', link: '/message-board/' },
 ]
