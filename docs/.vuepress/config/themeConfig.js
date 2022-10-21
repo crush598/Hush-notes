@@ -6,7 +6,7 @@ module.exports = {
   nav, // 顶部导航栏
   sidebarDepth: 1, // 侧边栏显示深度，默认1，最大2（显示到h3标题）
   logo: 'https://cdn.jsdelivr.net/gh/crush598/image@main/二分/202208180906845.png', // 导航栏logo
-  repo: 'crush598/Hush-notes', // 导航栏右侧生成Github链接
+  repo: 'crush598', // 导航栏右侧生成Github链接
   searchMaxSuggestions: 10, // 搜索结果显示最大数
   lastUpdated: '上次更新', // 开启更新时间，并配置前缀文字   string | boolean (取值为git提交时间)
   // editLinks: false, // 启用编辑链接
