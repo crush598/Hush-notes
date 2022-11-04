@@ -20,6 +20,10 @@ jobs:
         run: |
           yarn
           yarn build
+        env:
+          # 注意：Nodejs v17+ 更新了 OpenSSL ，可能与 Webpack 不兼容
+          #       此处使用环境变量指定 Nodejs 使用旧版本兼容的 OpenSSL
+          NODE_OPTIONS: "--openssl-legacy-provider"
 
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@v4
